@@ -1,0 +1,19 @@
+{
+  "name": "ts-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^2.1.0",
+    "@types/node": "^20.8.10",
+    "eslint": "^8.53.0",
+    "typescript": "^5.2.2"
+  }
+}
