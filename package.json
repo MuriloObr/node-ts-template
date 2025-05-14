@@ -5,6 +5,10 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+<<<<<<< HEAD
+=======
+    "start": "tsx watch ./src/index.ts",
+>>>>>>> 5b6b2ab (new config)
     "build": "tsc && node dist/index.js"
   },
   "keywords": [],
@@ -14,6 +18,10 @@
     "@rocketseat/eslint-config": "^2.1.0",
     "@types/node": "^20.8.10",
     "eslint": "^8.53.0",
+<<<<<<< HEAD
+=======
+    "tsx": "^4.19.4",
+>>>>>>> 5b6b2ab (new config)
     "typescript": "^5.2.2"
   }
 }
